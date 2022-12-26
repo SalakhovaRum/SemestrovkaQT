@@ -3,5 +3,5 @@
 - venv\Scripts\activate.bat' - активация виртуального окружения
 - pip install -r requirements.txt' - установка зависимостей
 - чтобы переводить программу с QT Designer в .py файл пишем 'pyuic6 name.ui -o name.py'
-- python server.py' - запускаем сервера
-- python start.py' - запускает клиента
+- python server.py - запускаем сервера
+- python start.py - запускает клиента
